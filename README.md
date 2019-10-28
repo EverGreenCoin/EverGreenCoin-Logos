@@ -5,9 +5,6 @@ Vectorized EverGreenCoin logo, branch logos, and project logos
 
 Trademarks and copyrights apply. All rights reserved.
 
-##### Donation BTC: 1Design1X8rTzznB7e26xKZ2XGEgZQkeHX   <- Cryptodesigner donation address. Not EGC's.
-
-
 1x   256x257   256x315
 
 1.5x 384x384   384x472   (+128)
@@ -21,3 +18,6 @@ Trademarks and copyrights apply. All rights reserved.
 5x 1280x1280   1280x1514 (+256)
 
 6x 1536x1536   1536x1770 (+256)
+
+
+##### Donation BTC: 1Design1X8rTzznB7e26xKZ2XGEgZQkeHX   <- Cryptodesigner donation address. Not EGC's.
