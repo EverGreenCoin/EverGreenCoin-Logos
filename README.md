@@ -1,4 +1,4 @@
-# EverGreenCoin - Logo, Branch Logos, and Project Logos
+# EverGreenCoin - Logos, Branch Logos, and Project Logos
 Vectorized EverGreenCoin logo, branch logos, and project logos
 
 <img src="https://raw.githubusercontent.com/cryptodesigner/evergreencoin/master/1x/logomdpi.png" width="256">
